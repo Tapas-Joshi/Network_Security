@@ -1,2 +1,3 @@
 # Network_Security
-My repo for network security class. 
+
+Network security class assignments and code 
